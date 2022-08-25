@@ -1,2 +1,2 @@
 # test
-learning git
+Let's try to learn the Git.
